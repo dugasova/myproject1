@@ -1,5 +1,6 @@
 Nataly Dugasova
 Group-19 HW_1
+
 1) Посмотреть где я - pwd
 2) Создать папку - mkdir foldername
 3) Зайти в папку - cd foldername
