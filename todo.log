@@ -1,0 +1,26 @@
+07-08 16:55:00.895  3090  3090 I AndroidIME: AbstractIme.onActivate():88 LatinIme.onActivate() : EditorInfo = Package = com.android.todolist : Type = Text : Learning = Enable : Suggestion = Show : AutoCorrection = Enable : Microphone = Show : NoPersonalizedLearning = Disable : AutoStartVoiceInput = Disable : AutoStartEmojiInput = Disable : SimulateDeviceLocked = False : imeActionName = DONE : imeOptions = 6 : privateImeOptions = null, IncognitoMode = false, DeviceLocked = false
+07-08 16:55:00.914  1729  2066 D ContentCapturePerUserService: Notified activity assist data for activity: Token{f4f0428 ActivityRecord{6d92541 u0 com.android.todolist/.ListActivity t33114}} without a session Id
+07-08 16:55:01.230  2611  6793 W mum     : Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+07-08 16:55:01.236  2611 30675 W mum     : Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+07-08 16:55:01.251  2611  9866 W mum     : Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+07-08 16:55:01.253  2611  9866 W mum     : Infinite Data has no result for 9677661882425161_com.android.todolist [CONTEXT service_id=177 ]
+07-08 16:55:05.073  1729  1949 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10028
+07-08 16:55:05.227  1729  1893 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +154ms
+07-08 16:55:05.667  1729  2066 W InputManager-JNI: Input channel object '42c1635 com.android.todolist/com.android.todolist.ListActivity (client)' was disposed without first being removed with the input manager!
+07-08 16:55:10.013  1729  1949 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10028
+07-08 16:55:10.145  1729  1893 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +131ms
+07-08 16:55:12.031  1729  2066 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@2a28e0f
+07-08 16:55:16.691  1729  3366 W InputManager-JNI: Input channel object 'b275d93 com.android.todolist/com.android.todolist.ListActivity (client)' was disposed without first being removed with the input manager!
+07-08 16:55:18.695  1729  2518 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@b353b8d
+07-08 16:57:02.289  1729  2170 W InputManager-JNI: Input channel object '23aee59 com.android.todolist/com.android.todolist.ListActivity (client)' was disposed without first being removed with the input manager!
+07-08 16:57:05.967  1729  2170 W InputManager-JNI: Input channel object 'af77cad com.android.todolist/com.android.todolist.ListActivity (client)' was disposed without first being removed with the input manager!
+07-08 16:57:07.633  1729  2170 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10028
+07-08 16:57:07.784  1729  1893 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +150ms
+07-08 16:57:08.214  1729  4905 W InputManager-JNI: Input channel object '6c6891a com.android.todolist/com.android.todolist.ListActivity (client)' was disposed without first being removed with the input manager!
+07-08 16:57:09.097  1729  4905 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10028
+07-08 16:57:09.245  1729  1893 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +147ms
+07-08 16:57:11.123  1729  2518 W NotificationService: Toast already killed. pkg=com.android.todolist token=android.os.BinderProxy@823ea81
+07-08 16:57:12.306  1729  4905 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10028
+07-08 16:57:12.459  1729  1893 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +152ms
+07-08 16:57:12.902  1729  3368 W InputManager-JNI: Input channel object '1761187 com.android.todolist/com.android.todolist.ListActivity (client)' was disposed without first being removed with the input manager!
+07-08 16:
